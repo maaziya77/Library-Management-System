@@ -1,7 +1,8 @@
 # Library-Management-System
 This Library Management System is a Python-based project designed to automate and streamline the management of library resources. This system replaces the traditional manual system with an efficient and user-friendly software solution that utilizes Python and MySQL for backend operations.
 
-Features
+Features:
+
 Admin Login System: Secure login for administrators with password authentication.
 Book Management:
 Add new books with relevant details (title, author, publication, and number of copies).
@@ -19,11 +20,13 @@ Tables include bookdetails (book information) and lent (lending records).
 Data Visualization:
 Display book details and lending information using the tabulate library for better readability.
 
-Technologies Used
+Technologies Used:
+
 Programming Language: Python 3.10.7
 Database: MySQL 8.0
 
 Libraries/Modules:
+
 mysql.connector: For connecting Python with MySQL.
 tabulate: For formatted data presentation.
 datetime: For managing dates related to lending and returns.
@@ -40,4 +43,3 @@ Use the admin credentials to log in and manage the library.
 
 This project demonstrates the application of Python and SQL in solving real-world problems like resource management and automation. It’s a simple yet effective system suitable for small libraries or educational institutions.
 
-Let me know if you’d like to tweak any part of this!
